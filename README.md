@@ -1,1 +1,2 @@
 # landing-project
+The goal is to create this website in the next two days, so hopefully we shal be done on March 13, 2025. Im going to try my best to use flexbox and understand exactly what I am doing. So wish myself the best of luck and I just know everything is going to turn out exactly how it needs too.
