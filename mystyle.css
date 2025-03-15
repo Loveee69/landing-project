@@ -1,0 +1,175 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    margin: 0px;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+ul  {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.top {
+    background-color:lightblue;
+    display: flex;
+    justify-content: space-around;
+    }
+
+.firstbutton {
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: lightseagreen;
+    font-size: 20px;
+}
+
+.success {
+    width: 500px;
+    align-self: flex-end;
+}
+
+h1 {
+    display: flex;
+    margin-bottom: -17px;
+    font-size: 25px;
+}
+
+.firsttext {
+    font-size: 20px;
+}
+
+.left-side {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 250px;   
+}
+
+.middle {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: lightpink;
+    height: 200px;
+    padding: 10px;
+}
+
+.firstcontainer div {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: antiquewhite;
+    width: 100px;
+    height: 100px;
+    align-items: center;
+    border-radius: 10px;
+
+}
+
+h3 {
+    background-color: lightpink;
+    display: flex;
+    justify-content: center;
+    margin-top: -10px;
+    margin-bottom: -4px;
+    font-size: 30px;
+}
+
+.second-container {
+    display: flex;
+    color: black;
+    justify-content: space-evenly;
+    width: 1230px;
+    height: 500px;
+}
+
+.firstcontainer {
+    display: flex;  
+    justify-content: space-evenly;
+    height: 500px;
+}
+
+.second-container div {
+    display: flex;
+    width: 100px;
+}
+
+.container {
+    background-color: lightgray;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+}
+
+.quote {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.from {
+    font-size:20px;
+    font-weight: bold;
+}
+
+.end {
+    background-color: blanchedalmond;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.change {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 500px;
+}
+
+.text {
+    font-size: 20px;
+}
+
+.buttontwo {
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: lightseagreen;
+    font-size: 20px;
+}
+
+.footer {
+    height: 50px;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
